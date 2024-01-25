@@ -1,5 +1,10 @@
 /lib
 /node_modules
 .nyc_output
-package-lock.json
-yarn.lock
+
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
