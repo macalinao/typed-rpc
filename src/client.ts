@@ -160,3 +160,5 @@ export function fetchTransport(options: FetchOptions): RpcTransport {
     return await res.json();
   };
 }
+
+export * from "./types.d.js";
