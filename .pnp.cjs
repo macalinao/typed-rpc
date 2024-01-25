@@ -33,6 +33,7 @@ const RAW_RUNTIME_STATE =
           ["express", "npm:4.18.2"],\
           ["isomorphic-fetch", "npm:3.0.0"],\
           ["tap", "virtual:3d7033d302a58421f2e0b10499ec15402adecb2c02ad41d5d3c9e980a5c9a0f7e9e9dec1a340c9bdf1abf3dca5766db973319a1a1980510cb60733ca3bfe79f8#npm:15.2.3"],\
+          ["tslib", "npm:2.6.2"],\
           ["typescript", "patch:typescript@npm%3A5.3.3#optional!builtin<compat/typescript>::version=5.3.3&hash=e012d7"],\
           ["with-server", "npm:2.1.0"]\
         ],\
@@ -4800,6 +4801,7 @@ const RAW_RUNTIME_STATE =
           ["express", "npm:4.18.2"],\
           ["isomorphic-fetch", "npm:3.0.0"],\
           ["tap", "virtual:3d7033d302a58421f2e0b10499ec15402adecb2c02ad41d5d3c9e980a5c9a0f7e9e9dec1a340c9bdf1abf3dca5766db973319a1a1980510cb60733ca3bfe79f8#npm:15.2.3"],\
+          ["tslib", "npm:2.6.2"],\
           ["typescript", "patch:typescript@npm%3A5.3.3#optional!builtin<compat/typescript>::version=5.3.3&hash=e012d7"],\
           ["with-server", "npm:2.1.0"]\
         ],\
